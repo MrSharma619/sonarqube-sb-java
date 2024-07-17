@@ -27,3 +27,6 @@ mvn clean verify sonar:sonar -Dsonar.projectKey=<project_key>
   
 you can find these details from the new project created.  
   
+a report will be generated in localhost  
+
+![image](https://github.com/user-attachments/assets/98422e7c-73b5-45d5-99f6-8f26b681f565)
